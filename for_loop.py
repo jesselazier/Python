@@ -1,6 +1,4 @@
 
-
-
 my_list=["jake","Tom","hong wei"]
 
 
