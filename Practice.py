@@ -15,4 +15,3 @@ myPhones={"Iphone X":1000,"sumsang":900}
 
 myPhones.clear()
 print(myPhones)
-12343443
