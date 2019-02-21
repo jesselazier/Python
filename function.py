@@ -21,9 +21,20 @@
 #
 # sum(1,2)
 # sum(10,10)
+#
+# def fun2(a,b):
+#     return (a+b)
+#
+# b=fun2(1,3)
+# print(b)
 
-def fun2(a,b):
-    return (a+b)
 
-b=fun2(1,3)
-print(b)
+def converter(weight):
+    ponds=weight/0.45
+    print(ponds)
+
+def converter2(weight=100):
+    ponds=weight/0.45
+    print(ponds)
+
+converter2(200)
